@@ -20,7 +20,7 @@ Contoh: kode wilayah Kelurahan Kemayoran: 31.71.03.1001
 
 Batas akses: 60 permintaan per menit per IP
 
-*PARAMETER KEY*
+# PARAMETER KEY
 
 utc_datetime: Waktu dalam UTC-YYYY-MM-DD HH:mm:ss
 
@@ -44,6 +44,7 @@ vs_text: Jarak Pandang dalam km
 
 analysis_date: Waktu produksi data prakiraan cuaca dalam UTC-YYYY-MM-DDTHH:mm:ss
 
+# Kode Administrasi
 Untuk kode administrasi bisa diakses pada : https://sig.bps.go.id/bridging-kode/index
 
 Lihat "Kode Desa/Kelurahan" yang berada di tabel kolom paling kanan.
